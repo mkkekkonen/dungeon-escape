@@ -1,0 +1,7 @@
+{
+  "levels": 10,
+  "mapWidth": 75,
+  "mapHeight": 75,
+  "minRooms": 3,
+  "maxRooms": 7
+}
